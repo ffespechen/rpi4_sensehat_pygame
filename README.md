@@ -13,8 +13,8 @@ Descubrir la totalidad de los casilleros sin BOMBAS (color ROJO), utilizando sol
 ## Implementación
 
 Se muestra un tablero en pantalla y se replica en la matriz de LEDs de la SenseHat.
-Para moverse entre los casilleros pueden emplearse tanto las flechas del teclado como el joystic de la SenseHat.
-La selección se hace con la tecla espaciadora.
+Para moverse entre los casilleros pueden emplearse tanto las flechas del teclado como el joystick de la SenseHat.
+La selección se hace con la barra espaciadora.
 
 ## TODO
 
